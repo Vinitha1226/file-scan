@@ -1,1 +1,3 @@
-password="great@123"
+example.com
+
+password = "great@123"
