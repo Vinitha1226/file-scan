@@ -1,3 +1,3 @@
 example.com
 
-password = "great@123"
+github_token = "ghp_tcGQstTY243SraovBaxk1agliz6CX73ucWE1"
